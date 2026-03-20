@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Tixeu/OneDrive/Documents/GitHub/SansFrein/SansFrein/Content/Racer/Content/Idrive.umap",
+				"C:/Users/Tixeu/OneDrive/Documents/GitHub/SansFrein/SansFrein/Content/__ExternalActors__/Racer/Content/Idrive/4/SK/XYQNRXMGJ02KC8NH1DAMWY.uasset",
+				"C:/Users/Tixeu/OneDrive/Documents/GitHub/SansFrein/SansFrein/Content/Blueprints/BP_Hovercar.uasset",
+				"C:/Users/Tixeu/OneDrive/Documents/GitHub/SansFrein/SansFrein/Content/Blueprints/Base/BP_SF_Character.uasset",
+				"C:/Users/Tixeu/OneDrive/Documents/GitHub/SansFrein/SansFrein/Content/__ExternalActors__/Level/SF_MainLevel/3/FO/6GVDAOEYFYQY6F3TVH3J99.uasset",
+				"C:/Users/Tixeu/OneDrive/Documents/GitHub/SansFrein/SansFrein/Content/Level/SF_MainLevel.umap"
+			]
+		}
+	]
+}
